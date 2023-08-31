@@ -45,10 +45,10 @@ body {
 }
 
 .attribution {
-  display: block;
   font-size: 11px;
   text-align: center;
-  padding-top: 12px;
+  position: absolute;
+  bottom: 10px;
 }
 
 .attribution a {
